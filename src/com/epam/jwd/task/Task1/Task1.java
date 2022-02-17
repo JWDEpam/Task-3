@@ -1,4 +1,4 @@
-package com.epam.jwd.tasks.Task1;
+package com.epam.jwd.task.Task1;
 
 import java.util.ArrayList;
 import java.util.List;
